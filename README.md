@@ -13,6 +13,6 @@
 ## Versão 2 Implementada. Adicionando as condições:
  - Criar usuários;
  - Criar conta bancária;
- - Incluir opções dentro de funções;
+ - Atribuir opções dentro de funções;
 
 ## Objetivo de absorver o conteúdo em forma de desafio feito pela DIO.
