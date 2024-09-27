@@ -5,11 +5,14 @@
 - Depósito;
 - Extrato.
 
-## Objetivo de absorver o conteúdo em forma de desafio feito pela DIO.
-
 ### Critérios do sistema:
 - Limite de 3 saques;
 - Valores devem ser positivos;
 - Saque máximo de R$ 500,00 por vez.
 
-## Primeira versão do sistema bancário desenvolvido.
+## Versão 2 Implementada. Adicionando as condições:
+ - Criar usuários;
+ - Criar conta bancária;
+ - Incluir opções dentro de funções;
+
+## Objetivo de absorver o conteúdo em forma de desafio feito pela DIO.
